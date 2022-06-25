@@ -1,0 +1,21 @@
+                                                   2010-03-16
+
+BIOS changes from Rev. TR2350_102307_01 to TR2350_031908_01:
+
+* Fix system auto starts again when switching off 
+  after Wake On LAN
+
+=============================================================
+
+History List:
+-------------
+                                                   2007-11-12
+
+BIOS changes from Rev. TR2350_061506_01 to TR2350_102307_01:
+
+* Update SMBIOS to support SST49LF004B flash part
+* Fix keyboard/mouse and LAN PME# wakeup from standby
+
+                                                   2006-06-27
+
+Initial BIOS Rev. TR2350_061506_01
